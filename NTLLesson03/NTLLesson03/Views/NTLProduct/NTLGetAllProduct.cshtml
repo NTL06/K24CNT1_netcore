@@ -1,0 +1,47 @@
+﻿@{
+	ViewData["Title"]="Danh sách sản phẩm";
+	var product = ViewData["product"] as List<NTLLesson03.Models.NTLProduct>;
+	int stt = 0;
+}
+<div>
+	<div class="card-header">
+		<h1>NTLGetAllProduct</h1>
+	</div>
+	<div>
+		<table class="table table-bordered table-striped">
+			<thead>
+				<tr>
+					<th>#</th>
+					<th>ID</th>
+					<th>Name</th>
+					<th>Year</th>
+					<th>Price</th>
+					<th>Action</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (NTLProduct item in product)
+				{
+					stt++;
+					<tr>
+						<td>@stt</td>
+						<td>@item.NTLProductId</td>
+						<td>@item.NTLProductName</td>
+						<td>@item.NTLYearRelease</td>
+						<td>@item.NTLPrice</td>
+						<td>
+							<a href="#">Xem</a>
+							<a href="#">Sửa</a>
+							<a href="#">Xóa</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+			<tfoot>
+				<tr>
+					<th colspan="6">Tổng số sản phẩm: @product.Count</th>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</div>
