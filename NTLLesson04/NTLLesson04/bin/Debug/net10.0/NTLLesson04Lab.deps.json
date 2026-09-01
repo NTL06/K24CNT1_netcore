@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NTLLesson04Lab/1.0.0": {
+        "runtime": {
+          "NTLLesson04Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTLLesson04Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

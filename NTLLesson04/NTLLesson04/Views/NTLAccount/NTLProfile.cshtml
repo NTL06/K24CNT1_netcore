@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Profile";
+    var profile = ViewBag.NTLAccount as NTLLesson04Lab.Models.NTLAccount;
+}
+
+<div class="row profile-row">
+    <div class="col-md-4">
+        <div class="border p-2">
+            <img src="@profile.Avatar"
+                 alt="@profile.Name"
+                 class="profile-img" />
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body">
+                <h3>FullName: @profile.Name</h3>
+                <p>Email: @profile.Email</p>
+                <p>Address: @profile.Address</p>
+                <p>Phone: @profile.Phone</p>
+                <p>Bio: @profile.Bio</p>
+
+                <p>
+                    Gender:
+                    @if (profile.Gender == 1)
+                    {
+                        <text>Nam</text>
+                    }
+                    else
+                    {
+                        <text>Nữ</text>
+                    }
+                </p>
+
+                <p>Birthday: @profile.Birthday</p>
+
+                <p>
+                    <a asp-controller="NTLAccount"
+                       asp-action="NTLIndex"
+                       class="btn btn-danger">
+                        Back to list
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
