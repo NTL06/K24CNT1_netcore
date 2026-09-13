@@ -1,0 +1,46 @@
+@model NTLLesson07Models.Models.DataModels.NTLMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="card p-3>
+    <h1>Thêm thành viên mới</h1>
+
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" method="post" asp-controller="NTLMember">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="NTLUserName" class="control-label"></label>
+                    <input asp-for="NTLUserName" class="form-control" />
+                    <span asp-validation-for="NTLUserName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="NTLPassword" class="control-label"></label>
+                    <input asp-for="NTLPassword" class="form-control" />
+                    <span asp-validation-for="NTLPassword" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="NTLFullName" class="control-label"></label>
+                    <input asp-for="NTLFullName" class="form-control" />
+                    <span asp-validation-for="NTLFullName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="NTLEmail" class="control-label"></label>
+                    <input asp-for="NTLEmail" class="form-control" />
+                    <span asp-validation-for="NTLEmail" class="text-danger"></span>
+                </div>
+                <div class="form-group my-2">
+                    <input type="submit" value="Ghi lại" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+</div>

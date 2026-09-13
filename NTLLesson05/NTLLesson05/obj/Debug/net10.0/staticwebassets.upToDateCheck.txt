@@ -1,5 +1,11 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\icons\798646552_1008742665508241_2016238520264023819_n.jpg
+wwwroot\icons\icon1.png
+wwwroot\icons\icon2.png
+wwwroot\icons\icon3.png
+wwwroot\icons\icon4.png
+wwwroot\icons\icon5.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -61,11 +67,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\icons\icon1.png
-wwwroot\icons\icon2.png
-wwwroot\icons\icon3.png
-wwwroot\icons\icon4.png
-wwwroot\icons\icon5.png
 D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\wwwroot\css\site.css
 D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\wwwroot\favicon.ico
 D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\wwwroot\js\site.js

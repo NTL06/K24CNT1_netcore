@@ -97,3 +97,4 @@ D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\obj\Debug\net10.0\refint\NTLLe
 D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\obj\Debug\net10.0\NTLLesson05.pdb
 D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\obj\Debug\net10.0\NTLLesson05.genruntimeconfig.cache
 D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\obj\Debug\net10.0\ref\NTLLesson05.dll
+D:\Le\Net\K24CNT1_netcore\NTLLesson05\NTLLesson05\obj\Debug\net10.0\NTLLesso.D967D947.Up2Date
