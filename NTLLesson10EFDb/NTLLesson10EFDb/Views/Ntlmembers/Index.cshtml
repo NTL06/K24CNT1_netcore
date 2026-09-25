@@ -1,0 +1,65 @@
+@model IEnumerable<NTLLesson10EFDb.Models.Ntlmember>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NtluserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ntlpassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NtlfullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ntlemail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ntlphone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ntlstatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.NtluserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Ntlpassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NtlfullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Ntlemail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Ntlphone)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Ntlstatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

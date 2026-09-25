@@ -6,6 +6,6 @@
         public string NTLUserName { get; set; }
         public string NTLPassword { get; set; }
         public string NTLFullName { get; set; }
-        public string NTLEmail { get; set; }
+       public string NTLEmail { get; set; }
     }
 }

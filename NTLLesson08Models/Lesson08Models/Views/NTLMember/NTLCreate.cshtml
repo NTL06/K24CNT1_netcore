@@ -1,0 +1,54 @@
+@model NTLLesson08Models.Models.NTLMember
+
+@{
+    ViewData["Title"] = "Thêm mới thành viên";
+}
+<form asp-action="NTLCreate" method="post">
+<div class="card p-3">
+    <div class="card-header">
+        <h1>@ViewData["Title"]</h1>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-4">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                 <div class="form-group">
+                    <label asp-for="NTLMemberId" class="control-label"></label>
+                    <input asp-for="NTLMemberId" class="form-control" />
+                    <span asp-validation-for="NTLMemberId" class="text-danger"></span>
+                 </div>
+
+                 <div class="form-group">
+                    <label asp-for="NTLUserName" class="control-label"></label>
+                    <input asp-for="NTLUserName" class="form-control" />
+                    <span asp-validation-for="NTLUserName" class="text-danger"></span>
+                 </div>
+
+                 <div class="form-group">
+                    <label asp-for="NTLPassword" class="control-label"></label>
+                    <input asp-for="NTLPassword" class="form-control" />
+                    <span asp-validation-for="NTLPassword" class="text-danger"></span>
+                 </div>
+
+                  <div class="form-group">
+                     <label asp-for="NTLFullName" class="control-label"></label>
+                     <input asp-for="NTLFullName" class="form-control" />
+                     <span asp-validation-for="NTLFullName" class="text-danger"></span>
+                  </div>
+
+                  <div class="form-group">
+                      <label asp-for="NTLEmail" class="control-label"></label>
+                      <input asp-for="NTLEmail" class="form-control" />
+                      <span asp-validation-for="NTLEmail" class="text-danger"></span>
+                  </div>
+             </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div class="form-group">
+            <input type="submit" value="Ghi lại" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+         </div>
+    </div>
+</div>
+ </form>
