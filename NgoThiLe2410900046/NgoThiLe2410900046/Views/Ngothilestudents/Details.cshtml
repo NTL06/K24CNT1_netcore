@@ -1,0 +1,38 @@
+@model NgoThiLe_2410900046.Models.Ngothilestudent
+
+@{
+    ViewData["Title"] = "Chi tiết sinh viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-info">Chi tiết sinh viên</h2>
+    <hr />
+
+    <div class="card shadow-sm col-md-8">
+        <div class="card-body">
+            <dl class="row mb-0">
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileName)</dt>
+                <dd class="col-sm-8 fw-bold">@Html.DisplayFor(model => model.NgothileName)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileGender)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileGender)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileBirthday)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileBirthday)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileEmail)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileEmail)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothilePhone)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothilePhone)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileActive)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileActive)</dd>
+            </dl>
+        </div>
+        <div class="card-footer bg-white">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary shadow-sm">Sửa</a>
+            <a asp-action="Index" class="btn btn-secondary ms-2 shadow-sm">Quay lại</a>
+        </div>
+    </div>
+</div>

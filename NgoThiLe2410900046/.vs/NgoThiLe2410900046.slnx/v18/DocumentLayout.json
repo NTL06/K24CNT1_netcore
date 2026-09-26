@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\home\\ntlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\home\\ntlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\models\\ngothilestudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\models\\ngothilestudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\controllers\\ngothilestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\controllers\\ngothilestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NgothilestudentContext.cs",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "RelativeToolTip": "NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T02:06:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:50:26.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:50:18.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Create.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Create.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Create.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:49:59.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:49:39.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NTLAbout.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Home\\NTLAbout.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Home\\NTLAbout.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Home\\NTLAbout.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Home\\NTLAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:05:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NgothilestudentsController.cs",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
+              "RelativeToolTip": "NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:35:57.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NgoThiLe2410900046\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:04:23.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:50:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Program.cs",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Program.cs",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Program.cs",
+              "RelativeToolTip": "NgoThiLe2410900046\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:25:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\appsettings.json",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\appsettings.json",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\appsettings.json",
+              "RelativeToolTip": "NgoThiLe2410900046\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T01:21:52.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:07:47.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

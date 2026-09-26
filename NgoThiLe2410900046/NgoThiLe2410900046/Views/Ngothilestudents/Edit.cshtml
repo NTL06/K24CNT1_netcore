@@ -1,0 +1,70 @@
+@model NgoThiLe_2410900046.Models.Ngothilestudent
+
+@{
+    ViewData["Title"] = "Chỉnh sửa sinh viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary">Chỉnh sửa sinh viên</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NgothileName" class="form-label fw-bold"></label>
+                            <input asp-for="NgothileName" class="form-control" />
+                            <span asp-validation-for="NgothileName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NgothileGender" class="form-label fw-bold"></label>
+                            <input asp-for="NgothileGender" class="form-control" />
+                            <span asp-validation-for="NgothileGender" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NgothileBirthday" class="form-label fw-bold"></label>
+                            <input asp-for="NgothileBirthday" class="form-control" />
+                            <span asp-validation-for="NgothileBirthday" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NgothileEmail" class="form-label fw-bold"></label>
+                            <input asp-for="NgothileEmail" class="form-control" />
+                            <span asp-validation-for="NgothileEmail" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="NgothilePhone" class="form-label fw-bold"></label>
+                            <input asp-for="NgothilePhone" class="form-control" />
+                            <span asp-validation-for="NgothilePhone" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-check mb-4">
+                            <input asp-for="NgothileActive" class="form-check-input" />
+                            <label asp-for="NgothileActive" class="form-check-label fw-bold"></label>
+                            <span asp-validation-for="NgothileActive" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary shadow-sm">Lưu thay đổi</button>
+                            <a asp-action="Index" class="btn btn-secondary ms-2 shadow-sm">Quay lại</a>
+                            </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

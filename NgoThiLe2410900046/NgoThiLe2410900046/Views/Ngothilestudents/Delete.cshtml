@@ -1,0 +1,45 @@
+@model NgoThiLe_2410900046.Models.Ngothilestudent
+
+@{
+    ViewData["Title"] = "Xóa sinh viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-danger">Xóa sinh viên</h2>
+    
+    <div class="alert alert-danger shadow-sm col-md-8 mt-3" role="alert">
+        <h5 class="alert-heading">Bạn có chắc chắn muốn xóa sinh viên này không?</h5>
+        <p class="mb-0">Hành động này không thể hoàn tác.</p>
+    </div>
+
+    <div class="card shadow-sm col-md-8 mt-3">
+        <div class="card-body">
+            <dl class="row mb-0">
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileName)</dt>
+                <dd class="col-sm-8 fw-bold">@Html.DisplayFor(model => model.NgothileName)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileGender)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileGender)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileBirthday)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileBirthday)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileEmail)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileEmail)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothilePhone)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothilePhone)</dd>
+
+                <dt class="col-sm-4 text-secondary">@Html.DisplayNameFor(model => model.NgothileActive)</dt>
+                <dd class="col-sm-8">@Html.DisplayFor(model => model.NgothileActive)</dd>
+            </dl>
+        </div>
+        <div class="card-footer bg-white">
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger shadow-sm">Có, Xóa</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2 shadow-sm">Hủy</a>
+            </form>
+        </div>
+    </div>
+</div>
