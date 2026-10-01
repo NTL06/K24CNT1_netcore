@@ -1,0 +1,31 @@
+@model NTLLab6_EF.Models.NTLProduct
+
+@{
+	ViewData["Title"] = "Product Details";
+}
+
+<h2>Product Details</h2>
+
+<div>
+	<dl class="row">
+		<dt class="col-sm-2">Name</dt>
+		<dd class="col-sm-10">@Model.NTLName</dd>
+
+		<dt class="col-sm-2">Image</dt>
+		<dd class="col-sm-10">
+			@if (!string.IsNullOrEmpty(Model.NTLImage))
+			{
+				<img src="@Url.Content("~/" + Model.NTLImage)" style="height:120px;" />
+			}
+		</dd>
+
+		<dt class="col-sm-2">Price</dt>
+		<dd class="col-sm-10">@Model.NTLPrice</dd>
+
+		<dt class="col-sm-2">Category</dt>
+		<dd class="col-sm-10">@Model.nTLCategory?.NTLName</dd>
+	</dl>
+
+	<a asp-action="Edit" asp-route-id="@Model.NTLId" class="btn btn-primary">Edit</a>
+	<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

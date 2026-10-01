@@ -1,0 +1,33 @@
+﻿@model NTLLab6_EF.Models.NTLCategory
+
+@{
+    ViewData["Title"] = "Chỉnh sửa danh mục";
+}
+
+<h2>Chỉnh sửa danh mục</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="NTLId" />
+
+            <div class="form-group">
+                <label asp-for="NTLName" class="control-label"></label>
+                <input asp-for="NTLName" class="form-control" />
+                <span asp-validation-for="NTLName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Cập nhật" class="btn btn-sm btn-success" />
+                <a class="btn btn-sm btn-danger" asp-action="Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

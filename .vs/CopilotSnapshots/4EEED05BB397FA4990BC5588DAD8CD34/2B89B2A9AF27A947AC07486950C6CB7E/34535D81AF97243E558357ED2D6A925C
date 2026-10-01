@@ -1,0 +1,49 @@
+﻿@model IEnumerable<NTLLab6_EF.Models.NTLCategory>
+
+@{
+    ViewData["Title"] = "Category List";
+}
+
+<div class="container-fluid">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="m-0">Category List</h2>
+        <p class="mb-0">
+            <a class="btn btn-sm btn-success" asp-action="Create">Create New Category</a>
+        </p>
+    </div>
+
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-info">No categories found.</div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.NTLName)</th>
+                        <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+                        <th class="text-center">Products</th>
+                        <th class="text-end">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="align-middle">@Html.DisplayFor(model => item.NTLName)</td>
+                        <td class="align-middle">@Html.DisplayFor(model => item.CreatedDate)</td>
+                        <td class="align-middle text-center">@(item.NTLProducts?.Count ?? 0)</td>
+                        <td class="text-end align-middle">
+                            <a class="btn btn-sm btn-primary me-1" asp-action="Edit" asp-route-id="@item.NTLId">Edit</a>
+                            <a class="btn btn-sm btn-info text-white me-1" asp-action="Details" asp-route-id="@item.NTLId">Details</a>
+                            <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.NTLId">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

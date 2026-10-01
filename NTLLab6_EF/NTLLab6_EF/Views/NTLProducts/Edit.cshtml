@@ -1,0 +1,63 @@
+@model NTLLab6_EF.Models.NTLProduct
+
+@{
+	ViewData["Title"] = "Edit Product";
+}
+
+<h2>Edit Product</h2>
+
+<div class="row">
+	<div class="col-md-8">
+		<form asp-action="Edit" method="post" enctype="multipart/form-data">
+			@Html.AntiForgeryToken()
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="hidden" asp-for="NTLId" />
+
+			<div class="mb-3">
+				<label asp-for="NTLName" class="form-label"></label>
+				<input asp-for="NTLName" class="form-control" />
+				<span asp-validation-for="NTLName" class="text-danger"></span>
+			</div>
+
+			<div class="mb-3">
+				<label class="form-label">Current Image</label>
+				@if (!string.IsNullOrEmpty(Model.NTLImage))
+				{
+					<div><img src="@Url.Content("~/" + Model.NTLImage)" style="height:80px;" /></div>
+				}
+				<label class="form-label">Change Image</label>
+				<input type="file" name="imageFile" class="form-control" />
+			</div>
+
+			<div class="mb-3">
+				<label asp-for="NTLPrice" class="form-label"></label>
+				<input asp-for="NTLPrice" class="form-control" />
+			</div>
+
+			<div class="mb-3">
+				<label asp-for="NTLDescriptions" class="form-label"></label>
+				<textarea asp-for="NTLDescriptions" class="form-control"></textarea>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<label asp-for="NTLCategoryId" class="form-label"></label>
+					<select asp-for="NTLCategoryId" asp-items="ViewBag.CategoryId" class="form-select"></select>
+				</div>
+				<div class="col-md-6">
+					<label asp-for="NTLStatus" class="form-label"></label>
+					<input asp-for="NTLStatus" class="form-control" />
+				</div>
+			</div>
+
+			<div class="mt-3">
+				<input type="submit" value="Save" class="btn btn-primary" />
+				<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+			</div>
+		</form>
+	</div>
+</div>
+
+@section Scripts {
+	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

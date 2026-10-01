@@ -1,0 +1,27 @@
+@model NTLLab6_EF.Models.NTLProduct
+
+@{
+	ViewData["Title"] = "Delete Product";
+}
+
+<h2>Delete Product</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+
+<div>
+	<h4>@Model.NTLName</h4>
+	<div>
+		<dl class="row">
+			<dt class="col-sm-2">Price</dt>
+			<dd class="col-sm-10">@Model.NTLPrice</dd>
+			<dt class="col-sm-2">Category</dt>
+			<dd class="col-sm-10">@Model.nTLCategory?.NTLName</dd>
+		</dl>
+	</div>
+
+	<form asp-action="Delete">
+		<input type="hidden" asp-for="NTLId" />
+		<input type="submit" value="Delete" class="btn btn-danger" />
+		<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+	</form>
+</div>

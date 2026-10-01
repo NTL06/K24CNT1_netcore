@@ -1,0 +1,47 @@
+﻿@model IEnumerable<NTLLab6_EF.Models.NTLCategory>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NTLName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NTLProducts)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.NTLName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.NTLProducts)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.NTLId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.NTLId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.NTLId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\home\\ntlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\home\\ntlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\models\\ngothilestudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\models\\ngothilestudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\home\\ntlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\home\\ntlabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\controllers\\ngothilestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\controllers\\ngothilestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\models\\ngothilestudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\models\\ngothilestudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\controllers\\ngothilestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\controllers\\ngothilestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\ngothilestudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\ngothilestudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{37487747-A1C6-4981-BEED-FE7A53FAD7BE}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|d:\\le\\net\\k24cnt1_netcore\\ngothile2410900046\\ngothile2410900046\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0872B741-F1B4-85BE-22DA-BF9784D44745}|NgoThiLe2410900046\\NgoThiLe_2410900046.csproj|solutionrelative:ngothile2410900046\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,20 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NgothilestudentContext.cs",
-              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
-              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
-              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
-              "RelativeToolTip": "NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T02:06:41.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
@@ -95,12 +82,11 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Details.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwCUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T01:50:26.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:50:26.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
@@ -108,8 +94,7 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Edit.cshtml",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T01:50:18.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:50:18.013Z"
             },
             {
               "$type": "Document",
@@ -121,12 +106,11 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Create.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAgwD4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T01:49:59.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:49:59.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
@@ -134,12 +118,11 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Index.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T01:49:39.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:49:39.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NTLAbout.cshtml",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Home\\NTLAbout.cshtml",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Home\\NTLAbout.cshtml",
@@ -152,7 +135,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\appsettings.json",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\appsettings.json",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\appsettings.json",
+              "RelativeToolTip": "NgoThiLe2410900046\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T01:21:52.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "NgothilestudentContext.cs",
+              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "RelativeDocumentMoniker": "NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "RelativeToolTip": "NgoThiLe2410900046\\Models\\NgothilestudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T02:06:41.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "NgothilestudentsController.cs",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
@@ -160,12 +168,11 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Controllers\\NgothilestudentsController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T01:35:57.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:35:57.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Controllers\\HomeController.cs",
@@ -173,12 +180,11 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T01:04:23.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:04:23.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
@@ -186,8 +192,7 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Views\\Ngothilestudents\\Delete.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwCwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T01:50:34.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:50:34.702Z"
             },
             {
               "$type": "Document",
@@ -199,25 +204,11 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T01:25:40.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:25:40.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\appsettings.json",
-              "RelativeDocumentMoniker": "NgoThiLe2410900046\\appsettings.json",
-              "ToolTip": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\appsettings.json",
-              "RelativeToolTip": "NgoThiLe2410900046\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-26T01:21:52.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Le\\Net\\K24CNT1_netcore\\NgoThiLe2410900046\\NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
@@ -225,8 +216,7 @@
               "RelativeToolTip": "NgoThiLe2410900046\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-26T01:07:47.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T01:07:47.012Z"
             }
           ]
         }

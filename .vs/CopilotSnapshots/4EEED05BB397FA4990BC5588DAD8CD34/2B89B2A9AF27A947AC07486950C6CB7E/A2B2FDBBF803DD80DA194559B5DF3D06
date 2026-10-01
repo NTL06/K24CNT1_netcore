@@ -1,0 +1,67 @@
+﻿@model NTLLab6_EF.Models.NTLCategory
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>NTLCategory</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NTLName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NTLName)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+    </dl>
+</div>
+
+<h4>NTLProducts</h4>
+
+@if (Model.NTLProducts != null && Model.NTLProducts.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên sản phẩm</th>
+                <th>Giá</th>
+                <th>Giá khuyến mãi</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var product in Model.NTLProducts)
+            {
+                <tr>
+                    <td>@product.NTLId</td>
+                    <td>@product.NTLName</td>
+                    <td>@product.NTLPrice</td>
+                    <td>@product.NTLSalePrice</td>
+                    <td>@product.NTLStatus</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Chưa có sản phẩm nào thuộc danh mục này.</p>
+}
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.NTLId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
